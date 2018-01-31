@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.sort-select {
+  margin-right: 3%;
+  float: right;
+}
+
+.right-nav {
+  float: right;
+  width: 30%;
+  height: 100vh;
+  border-left: 1px solid grey;
+  text-align: left;
+}
+
+.right-nav ul {
+  list-style-type: none;
+  padding-left: 1;
+}
+
+.list-entries {
+  float: left;
+  width: 67%;
+}
+
+.clearfix {
+  clear: both;  
+}
+
+.entry-list-actions li {
+  display: inline;
+  float: right;
+}
+
+.remove {
+  margin-right: 10px;
+}
+
+.vote-buttons {
+  float: left;
+}
+
+.entry-list-item {
+
+}
+
+.entry-author {
+  float: left;
+  margin-right: 10px;
+}
+
+.entry-commentcount {
+  float: left;
+  margin-right: 10px;
+}
+
+.entry-date {
+  float: right;
+}
+
+.entry-list-content {
+
+}
+
+.entry-list-actions li {
+    list-style-type: none;
+}
+
+.entry-title {
+    text-align: left;
+}
+
+
+.vote-label {
+  float: left;
+  margin-top: 3%;
+}
